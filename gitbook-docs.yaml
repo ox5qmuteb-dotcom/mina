@@ -67,4 +67,4 @@ site:
           path: help-center
           default: true
           content:
-            directory: ./help-center
+            directory: null
