@@ -15,7 +15,7 @@ site:
           path: home
           default: true
           content:
-            directory: ./MOTEBSNAK
+            directory: null
     - type: section
       key: section-2
       title: Documentation
@@ -28,7 +28,7 @@ site:
           path: documentation
           default: true
           content:
-            directory: ./imported-content
+            directory: null
     - type: section
       key: section-3
       title: API Reference
